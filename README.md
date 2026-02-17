@@ -35,7 +35,7 @@ Projet hardware + software complet : pilotage précis d’un portail miniature a
 - Impression 3d
 
 
-![Maquette du portail complet](img/img2.PNG)
+![Maquette du portail complet](img/img2.jpg)
 ![Maquette du portail complet](img/img3.jpg)
 ![Maquette du portail complet](img/img4.jpg)
 ![Maquette du portail complet](img/img5.JPG)
