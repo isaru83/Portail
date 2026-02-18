@@ -34,7 +34,11 @@ Projet hardware + software complet : pilotage précis d’un portail miniature a
 - Buzzer pour le réveil, boutons poussoirs pour menu, écran LCD
 - Impression 3d
 
+## 🎥 Démonstration vidéo
 
+[Voir la vidéo du portail en fonctionnement](https://www.youtube.com/watch?v=z_P7mRQOFJg)
+
+** Photos
 ![Maquette du portail complet](img/img2.jpg)
 ![Maquette du portail complet](img/img3.jpg)
 ![Maquette du portail complet](img/img4.jpg)
