@@ -38,7 +38,7 @@ Projet hardware + software complet : pilotage précis d’un portail miniature a
 
 [Voir la vidéo du portail en fonctionnement](https://www.youtube.com/watch?v=z_P7mRQOFJg)
 
-** Photos
+## Photos
 ![Maquette du portail complet](img/img2.jpg)
 ![Maquette du portail complet](img/img3.jpg)
 ![Maquette du portail complet](img/img4.jpg)
