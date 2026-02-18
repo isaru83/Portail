@@ -12,7 +12,6 @@
 #define LCD_LINE_SIZE 16
 
 #define NB_CHILD_MAX 10
-//#define LCDLINE_SIZE 16
 
 #define UP_BUTTON    0
 #define DOWN_BUTTON  1
